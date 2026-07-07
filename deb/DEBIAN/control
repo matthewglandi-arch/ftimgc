@@ -1,0 +1,9 @@
+Package: ftimgc
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk
+Maintainer: matthewlandi
+Description: File to IMG Converter
+ A simple GUI application to convert any file into a raw .img disk image.

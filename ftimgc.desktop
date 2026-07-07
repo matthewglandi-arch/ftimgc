@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=File to IMG Converter
+Comment=Convert any file into a raw .img disk image
+Exec=python3 /home/matthewlandi/ftimgc/converter.py
+Icon=drive-harddisk
+Terminal=false
+Categories=Utility;
